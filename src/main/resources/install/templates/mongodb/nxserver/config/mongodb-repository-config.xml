@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<component name="mongodb-repository-config">
+  <extension target="org.nuxeo.ecm.core.storage.mongodb.MongoDBRepositoryService"
+      point="repository">
+    <repository name="mongodb" label="MongoDB Repository">
+      <server>${nuxeo.mongodb.server}</server>
+    </repository>
+  </extension>
+</component>
