@@ -5,7 +5,7 @@
     <p>This addon adds the "MongoDB" functionality to Nuxeo.</p>
     <p>This is an EXPERIMENTAL package for 5.9.4</p>
   </description>
-  <home-page>http://doc.nuxeo.com/</home-page>
+  <home-page>http://doc.nuxeo.com/x/yAEuAQ</home-page>
   <vendor>Nuxeo</vendor>
   <installer restart="true" />
   <uninstaller restart="true" />
