@@ -26,6 +26,8 @@
       <artifact:resolveFile key="org.nuxeo.ecm.core:nuxeo-core-storage-dbs:5.9.5-mongodb-SNAPSHOT:jar" />
       <artifact:resolveFile key="org.nuxeo.ecm.core:nuxeo-core-storage-mongodb:5.9.5-mongodb-SNAPSHOT:jar" />
       <!-- from master -->
+      <artifact:resolveFile key="org.nuxeo.ecm.core:nuxeo-core:5.9.5-SNAPSHOT:jar" />
+      <artifact:resolveFile key="org.nuxeo.ecm.core:nuxeo-core-storage-sql:5.9.5-SNAPSHOT:jar" />
       <artifact:resolveFile key="org.nuxeo.ecm.platform:nuxeo-platform-web-common:5.9.5-SNAPSHOT:jar" />
       <artifact:resolveFile key="org.nuxeo.ecm.platform:nuxeo-platform-webapp-base:5.9.5-SNAPSHOT:jar" />
       <artifact:resolveFile key="org.nuxeo.ecm.platform:nuxeo-user-profile:5.9.5-SNAPSHOT:jar" />
