@@ -10,7 +10,7 @@
 
   <groupId>org.nuxeo.marketplace.mongodb</groupId>
   <artifactId>marketplace-mongodb</artifactId>
-  <version>0.5.0-SNAPSHOT</version>
+  <version>0.5.0</version>
   <packaging>zip</packaging>
 
   <properties>
