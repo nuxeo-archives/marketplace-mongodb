@@ -3,6 +3,9 @@
   <update file="${package.root}/install/bundles" todir="${env.bundles}" />
   <update file="${package.root}/install/lib" todir="${env.lib}" />
 
+  <delete file="${env.templates}/common-base/nxserver/config/default-repository-config.xml.nxftl" />
+  <delete file="${env.config}/default-repository-config.xml" />
+
   <copy dir="${package.root}/install/templates" todir="${env.templates}" overwrite="true" />
   <config addtemplate="mongodb" />
 </install>

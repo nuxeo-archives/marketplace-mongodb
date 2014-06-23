@@ -2,8 +2,8 @@
 <package type="addon" name="nuxeo-mongodb" version="@VERSION@">
   <title>Nuxeo MongoDB</title>
   <description>
-    <p>This addon adds the "MongoDB" functionality to Nuxeo.</p>
-    <p>This is an EXPERIMENTAL package for 5.9.4</p>
+    <p>This addon adds the "MongoDB" functionality to the Nuxeo Platform.</p>
+    <p>This is a beta release for Nuxeo Platform 5.9.4 (Fast Track).</p>
   </description>
   <home-page>http://doc.nuxeo.com/x/yAEuAQ</home-page>
   <vendor>Nuxeo</vendor>
